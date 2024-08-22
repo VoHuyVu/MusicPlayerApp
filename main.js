@@ -64,35 +64,41 @@ const app = {
       image: "./assets/img/HoYeuAiMatRoi.jpg"
     },
     {
-      name: "Chạy ngay đi",
-      singer: "Sơn tùng MTP",
-      path: "./assets/mucsic/ChayNgayDi-SonTungMTP-5468704.mp3",
-      image: "./assets/img/ChayNgayDi.jpg"
+      name: "Ghệ yêu dấu của em ơi",
+      singer: "Tlinh",
+      path: "./assets/mucsic/GheIuDauCuaEmOi-tlinh2pillzWOKEUPAT4AM-8677578.mp3",
+      image: "./assets/img/GheYeu.jpg"
     },
     {
-      name: "Chúng ta của hiện tại",
-      singer: "Sơn tùng MTP",
-      path: "./assets/mucsic/ChungTaCuaHienTai-SonTungMTP-6892340.mp3",
-      image: "./assets/img/ChungTaCuaHienTai.jpg"
+      name: "Làm lành chữa tình",
+      singer: "Tlinh",
+      path: "./assets/mucsic/LamLanhChuaTinh-tlinh-10715560.mp3",
+      image: "./assets/img/LamLanh.jpg"
     },
     {
-      name: "Họ yêu ai mất rồi",
-      singer: "Doãn Hiếu",
-      path: "./assets/mucsic/HoYeuAiMatRoi.mp3",
-      image: "./assets/img/HoYeuAiMatRoi.jpg"
+      name: "Nếu lúc đó",
+      singer: "Tlinh",
+      path: "./assets/mucsic/NeuLucDo-tlinh2pillz-8783613.mp3",
+      image: "./assets/img/NeuLucDo.jpg"
     },
     {
-      name: "Chúng ta của hiện tại",
-      singer: "Sơn tùng MTP",
-      path: "./assets/mucsic/ChungTaCuaHienTai-SonTungMTP-6892340.mp3",
-      image: "./assets/img/ChungTaCuaHienTai.jpg"
+      name: "Người điên",
+      singer: "Tlinh",
+      path: "./assets/mucsic/NguoiDien-tlinh-10715124.mp3",
+      image: "./assets/img/NguoiDien.jpg"
     },
     {
-      name: "Họ yêu ai mất rồi",
-      singer: "Doãn Hiếu",
-      path: "./assets/mucsic/HoYeuAiMatRoi.mp3",
-      image: "./assets/img/HoYeuAiMatRoi.jpg"
-    }
+      name: "Nữ siêu anh hùng",
+      singer: "Tlinh",
+      path: "./assets/mucsic/NuSieuAnhHung-tlinh-10715744.mp3",
+      image: "./assets/img/SieuAnhHung.jpg"
+    },
+    {
+      name: "Tình yêu có nghĩa là gì",
+      singer: "Tlinh",
+      path: "./assets/mucsic/TinhYeuCoNghiaLaGi-tlinh-10714742.mp3",
+      image: "./assets/img/TinhYeuCoNghiaLaGi.jpg"
+    },
   ],
 
   render: function() {
